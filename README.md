@@ -3,10 +3,10 @@ This repository showcases my data analysis portfolio, which includes a variety o
 
 ## Projects
 ### Project 1
--Description
+- Description
 
 ### Project 2
--Description
+- Description
 
 # Education
 - Southern New Hampshire University
