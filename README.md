@@ -9,10 +9,10 @@ This repository showcases my data analysis portfolio, which includes a variety o
 -Description
 
 # Education
--Southern New Hampshire University
--BS Data Analytics
+- Southern New Hampshire University
+- BS Data Analytics
 
 # Work History
--Job 1
--Job 2
--Job 3
+- Job 1
+- Job 2
+- Job 3
